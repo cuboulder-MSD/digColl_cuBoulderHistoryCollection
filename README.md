@@ -1,1 +1,1 @@
-# digColl_cuBoulderHistoryCollection
+# University of Colorado Boulder History Collection
